@@ -1,6 +1,3 @@
-
-
-
 import org.web3j.crypto.Credentials;
 import org.web3j.crypto.WalletUtils;
 import org.web3j.javamag.generated.HumanStandardToken;
